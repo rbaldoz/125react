@@ -1,9 +1,3 @@
-function MyButton(){
-  return(
-    <button>Press me!</button>
-  );
-}
-
 export default function Home(){
   return(
     <section className='py-24'>
